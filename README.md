@@ -11,21 +11,19 @@
 <!--   <em>
     I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
   </em> -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;keep+looking,+and+don't+settle&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="MERN Stack Developer">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;keep+looking,+and+don't+settle&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Java Developer">
 </p>
 
 <p align="center">
 <!--   <a href="https://t.me/shebinvs"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.instagram.com/shebin_vs"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+  <a href="https://www.instagram.com/sanjive_subramaniam"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/+919961335345"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
+  <a href="https://wa.me/+919344836317"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://discord.com/users/muhammedshebinva#2462"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.linkedin.com/in/muhammed-shebin-va-06978b213/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/shebin_vs"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
+  <a href="https://www.linkedin.com/in/sanjive-subramaniam/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://dev.to/shebinvs"><img width="32px" alt="dev.to" title="dev.to" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
@@ -35,7 +33,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--     <a href="https://gitlab.com/muhammedshebinva"><img width="32px" alt="gitlab" title="gitlab" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="mailto:mail.muhammedshebinva@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+  <a href="mailto:mail.sanjivesubramaniam4154@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 </p>
 
 <br>
