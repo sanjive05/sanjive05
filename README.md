@@ -48,6 +48,7 @@
 <br>
 
 <a href=""><img alt="Sanjive's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sanjive05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sanjive05?ext=contest&theme=dark)](https://leetcode.com/sanjive05)
 <!--
 <a href=""><img alt="Shebin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshebinva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,muhammedshebinva.github.io" /></a>
 -->
