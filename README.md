@@ -3,7 +3,7 @@
 <h3 align="center">
     Hello world!&nbsp;
 <!-- gvhb -->
-    &nbsp;Welcome to SHEBIN's profile!
+    &nbsp;Welcome to SANJIVE's profile!
 
 </h3>
 
