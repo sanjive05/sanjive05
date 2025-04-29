@@ -17,25 +17,22 @@
 <p align="center">
 <!--   <a href="https://t.me/shebinvs"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.instagram.com/shebin_vs"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/+919961335345"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
+ 
+  <a href="https://wa.me/+919344836317"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://discord.com/users/muhammedshebinva#2462"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.linkedin.com/in/muhammed-shebin-va-06978b213/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/shebin_vs"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
+  <a href="https://www.linkedin.com/in/sanjive-subramaniam/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://dev.to/shebinvs"><img width="32px" alt="dev.to" title="dev.to" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--   <a href="https://www.buymeacoffee.com/shebinvs"><img width="32px" alt="buymeacoffee" title="buymeacoffee" src="https://spiritedisle.ie/resources/uploads/2021/09/download1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://github.com/muhammedshebinva/"><img width="32px" alt="github" title="github" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a href="https://github.com/sanjive05/"><img width="32px" alt="github" title="github" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--     <a href="https://gitlab.com/muhammedshebinva"><img width="32px" alt="gitlab" title="gitlab" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="mailto:mail.muhammedshebinva@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+  <a href="mailto:mail.sanjivesubramaniam4154@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 </p>
 
 <br>
@@ -49,7 +46,7 @@
 <br>
 <br>
 
-<a href=""><img alt="Shebin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammedshebinva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href=""><img alt="Sanjive's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sanjive05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <!--
 <a href=""><img alt="Shebin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshebinva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,muhammedshebinva.github.io" /></a>
 -->
