@@ -41,12 +41,10 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjive05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjive05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
 
 <br>
 <br>
-
-<a href=""><img alt="Sanjive's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sanjive05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <!--
 <a href=""><img alt="Shebin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshebinva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,muhammedshebinva.github.io" /></a>
 -->
