@@ -8,9 +8,7 @@
 </h3>
 
 <p align="center">
-<!--   <em>
-    I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
-  </em> -->
+
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;keep+looking,+and+don't+settle&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="MERN Stack Developer">
 </p>
 
