@@ -1,8 +1,7 @@
 
 
 <h3 align="center">
-    Hello world!&nbsp;
-<!-- gvhb -->
+    Hello world!&nbs
     &nbsp;Welcome to Sanjive's profile!
 
 </h3>
