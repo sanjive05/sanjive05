@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Backend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Keep+learning+and+never+settle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer; Spring+Boot+%7C+Microservices+%7C+REST+APIs;Keep+learning+and+never+settle" alt="Typing SVG" />
 </p>
 
 <p align="center">
