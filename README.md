@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Java Developer** at Infosys  
+- 🔭 I’m currently working as a **Java Developer** at BNP Paribas, Chennai. 
 - 🌱 I’m skilled in **Java, Spring Boot, Microservices, REST APIs, MySQL, AWS**  
 - 🛠️ I'm passionate about writing clean, maintainable backend code  
 - 📫 You can reach me at **mail.sanjivesubramaniam4154@gmail.com**
